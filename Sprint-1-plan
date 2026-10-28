@@ -1,0 +1,23 @@
+
+# Sprint-1 Plan
+## Project: Student Management Portal
+
+### Sprint Duration
+1 Week
+
+### Sprint Goal
+To develop the basic static web pages of the Student Management Portal using HTML5.
+
+### Tasks
+1. Create Home page.
+2. Create About page.
+3. Create Student Registration page.
+4. Create Courses page.
+5. Create Contact page.
+6. Test navigation between all pages.
+
+### Expected Deliverable
+Five functional static HTML pages with navigation links.
+
+### Definition of Done
+All five pages are created, tested, and committed to GitHub.
